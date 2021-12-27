@@ -1,2 +1,2 @@
 # Panzer-den-Maschinensoldaten-Mod
-Dies ist ein Mod für Rusted Warfare, ein RTS-Spiel, das von Corroding Games.
+This is a simple Unit omd for Rusted Warfare.
