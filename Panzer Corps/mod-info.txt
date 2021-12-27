@@ -1,0 +1,5 @@
+[mod]
+title: Panzer Corps 
+Mod that adds new Panzer Infantry Units and Buildings in the game.
+
+thumbnail: thumbnail.png
