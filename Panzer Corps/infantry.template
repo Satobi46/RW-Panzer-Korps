@@ -1,0 +1,20 @@
+[template_infantry]
+
+[core]
+tags: infantry
+
+[effect_blood]
+attachedToUnit: false
+life: 80
+physics: true
+scaleFrom: 1
+scaleTo: 0.2
+xSpeedRelativeRandom: 0.9
+ySpeedRelativeRandom: 0.9
+hSpeed: 0.5
+image: ROOT:\data\images\blood.png
+drawUnderUnits:false
+
+[graphics]
+icon_build: ROOT:\data\images\infantryIcon.png
+icon_zoomed_out: ROOT:\data\images\infantryIcon.png
