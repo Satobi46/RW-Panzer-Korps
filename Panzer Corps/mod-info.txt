@@ -1,13 +1,5 @@
 [mod]
-title: Panzer Korps
-
-description: - A mod that adds new Panzer Korps Infantry units and buildings in the game. \n-This mod was Inspired by Kerberos Panzer Cop / Jin-Roh: The Wolf Brigade, Death Korps of Krieg, Wolfenstein, and The Red Spectacles.
+title: Panzer Corps 
+Mod that adds new Panzer Infantry Units and Buildings in the game.
 
 thumbnail: thumbnail.png
-
-### Please do not steal my works without asking permission, you can always contact me on my discord Satobi#4236 ###
-
-
-[music]
-sourceFolder: music
-whenUsingUnitsFromThisMod_playExclusively: true
