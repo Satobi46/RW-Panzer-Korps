@@ -1,7 +1,7 @@
-[template_infantry]
-
 [core]
+class: CustomUnitMetadata
 tags: infantry
+
 
 [effect_blood]
 attachedToUnit: false
@@ -18,3 +18,18 @@ drawUnderUnits:false
 [graphics]
 icon_build: ROOT:\data\images\infantryIcon.png
 icon_zoomed_out: ROOT:\data\images\infantryIcon.png
+
+[decal_teamShadow]
+image: ROOT:data\images\teamShadow.png
+imageScale: 1
+frame_width: 27
+frame_height: 27
+teamColors: true
+alwaysStartDirAtZero: false
+xOffsetRelative: 0
+yOffsetRelative: 0
+basePosition: self
+layer: shadow
+alpha: 0.5
+onlyWhileAlive: true
+onlyWithZoomLevelOrMore: 0.5

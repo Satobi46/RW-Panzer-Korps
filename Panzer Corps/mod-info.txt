@@ -1,5 +1,6 @@
 [mod]
-title: Panzer Korps
+title: Panzer Korps 1.86c
+minVersion: 1.15p9
 
 description: - A mod that adds new Panzer Korps Infantry units and buildings in the game. \n-This mod was Inspired by Kerberos Panzer Cop / Jin-Roh: The Wolf Brigade, Death Korps of Krieg, Wolfenstein, and The Red Spectacles.
 
